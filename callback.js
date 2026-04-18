@@ -25,3 +25,16 @@
 //     console.info(`Running ${n}...`);
 // })
 
+// Exercise 3
+
+// function delayedDecision(time, cb) {
+//     console.log("Processing...");
+//     setTimeout(() => {
+//         let output = time > 2000 ? "Too long" : "Quick enough"; 
+//         cb(output);
+//     }, time);
+// }
+
+// delayedDecision(1000, function(output) {
+//     console.log(output);
+// })

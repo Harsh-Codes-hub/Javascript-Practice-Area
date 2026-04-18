@@ -64,7 +64,7 @@ Running 3
 
 # 🟡 Level 2 — Intermediate (Data Flow + Chaining)
 
-## Exercise 7 — User → Profile (similar pattern)
+## Exercise 4 — User → Profile (similar pattern)
 
 **Task:** Build:
 
@@ -93,7 +93,7 @@ Followers: ...
 
 ---
 
-## Exercise 8 — Product → Reviews
+## Exercise 5 — Product → Reviews
 
 **Task:**
 
@@ -117,7 +117,7 @@ Followers: ...
 
 ---
 
-## Exercise 9 — Error Handling (NEW 🔥)
+## Exercise 6 — Error Handling (NEW 🔥)
 
 **Task:** Modify flow
 
@@ -142,7 +142,7 @@ Followers: ...
 
 # 🟠 Level 3 — Intermediate+ (Callback Pain Zone 😈)
 
-## Exercise 10 — Order System
+## Exercise 7 — Order System
 
 **Functions:**
 
@@ -164,7 +164,7 @@ Each takes 1 sec delay
 
 ---
 
-## Exercise 11 — File Processing Chain
+## Exercise 8 — File Processing Chain
 
 **Functions:**
 
@@ -182,7 +182,7 @@ Each takes 1 sec delay
 
 ---
 
-## Exercise 12 — Parallel Callbacks (NEW 🧠)
+## Exercise 9 — Parallel Callbacks (NEW 🧠)
 
 **Task:**
 
@@ -203,7 +203,7 @@ Both take 1 sec
 
 # 🔴 Level 4 — Final Boss (All Concepts Combined)
 
-## Exercise 13 — Mini App Flow 🔥
+## Exercise 10 — Mini App Flow 🔥
 
 **Task:** Build full flow:
 
